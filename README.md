@@ -1,1 +1,1 @@
-# strona
+# It's poject of my personal website with info about myself and my other projects 😄
