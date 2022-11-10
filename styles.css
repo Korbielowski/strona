@@ -24,3 +24,31 @@ span {
 span.fade {
     opacity: 1;
 }
+
+.navigationBar {
+    overflow: hidden;
+    background-color: rgb(15, 22, 216);
+
+}
+
+.navigationBar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+
+}
+
+.navigationBar a:hover {
+    background-color: aqua;
+    color: black;
+
+}
+
+.navigationBar a.contact {
+    float: right;
+    background-color: rgb(15, 22, 216);
+}
